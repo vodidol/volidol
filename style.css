@@ -1,0 +1,39 @@
+header {
+   background-color: antiquewhite; 
+   padding: 24px;
+   text-align: center;
+}
+
+nav {
+    background-color: blanchedalmond;
+}
+
+nav a {
+    background-color: yellow;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+footer {
+    color: black;
+    background-color: antiquewhite;
+
+    font-family: Arial;
+    font-size: 24px;   
+    margin-top: 8px;
+    border: 2px solid white;
+}
+
+main p {
+    font-family: Arial;
+    font-size: 24px;   
+    padding: 8px;
+    margin: 16px;
+    border: 2px solid white;
+}
